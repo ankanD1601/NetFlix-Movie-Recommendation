@@ -1,5 +1,5 @@
 # NetFlix-Movie-Recommendation
-
+![netflix-q](https://user-images.githubusercontent.com/42392773/52229643-67723e80-28db-11e9-8ef8-4ddd945a34cd.jpg)
 
 <h1> Business Problem </h1>
 <p>
